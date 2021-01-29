@@ -1,0 +1,24 @@
+{
+  "name": "jam-stack-todo-app",
+  "version": "1.0.0",
+  "description": "JAM stack todo app with Gatsby, graphql, faunaDB, Netlify. ",
+  "main": "index.js",
+  "private": "true",
+  "workspaces":[
+    "packages/*"
+  ],
+
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeeshanRaza25/JAM-Stack-todo-app.git"
+  },
+  "author": "Zeeshan-Raza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeeshanRaza25/JAM-Stack-todo-app/issues"
+  },
+  "homepage": "https://github.com/ZeeshanRaza25/JAM-Stack-todo-app#readme"
+}
